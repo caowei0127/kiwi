@@ -1,1 +1,34 @@
-theme: jekyll-theme-midnight
+url: https://caowei0127.github.io/kiwi/
+baseurl: kiwi
+
+# Site settings
+title: Data Scientist - Kiwi
+email: caowei0127@gmail.com
+description: "This is a space where Kiwi markdowns his NLP Journey."
+
+
+# Team names, titles and social links
+people:
+- name: Kiwi
+  pic: 1
+  position: NLP Artist
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/caowei0127/
+    - title: github
+      url: http://github.com/caowei0127
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/caowei0127
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Aon Center For Innovation and Analytics
+  - line: Singapore
+
+# Build settings
+markdown: kramdown
+permalink: pretty
