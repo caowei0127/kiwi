@@ -1,15 +1,26 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Software Engineer Internship
+subtitle: Software Development
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: Mar 2017 - July 2017
+img: active_ai.png
+thumbnail: active_ai_thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Mar 2017 - July 2017
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Software Development
+Background-Problem-Statements: 
+    <p align="left">
+        The Omni Connector AI Platform combines specialised solutions using AI and NLP to deliver seamless conversational interactions to provide financial services across various distribution channels.
+    </p>
+Implementations-Outcomes: 
+    <ul>
+        <li align="left">
+            Built up all distribution channel connections (including Messenger, Slack, Skype, WeChat and etc.) to allow for various types of conversations.
+        </li>
+        <li align="left">
+            Crawled public and available financial services entities’ website information using Python to enhance internal corpus and built up data cleansing pipeline before the model training.
+        </li>
+    </ul>
 ---

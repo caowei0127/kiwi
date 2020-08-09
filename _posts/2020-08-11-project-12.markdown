@@ -1,0 +1,40 @@
+---
+title: Kaggle
+subtitle: Data Science
+layout: default
+modal-id: 12
+date: Jan 2020 - Now
+img: kaggle.png
+thumbnail: kaggle_thumbnail.png
+alt: image-alt
+project-date: Jan 2019 - Now
+client: Start Bootstrap
+category: Data Science
+Background-Problem-Statements: 
+    <p align="left">
+        <ul>
+            <li align="left">
+                National Data Science Challenge 2019 - Beginner
+            </li>
+            <li align="left">
+                Two Sigma - Using News to Predict Stock Movements
+            </li>
+            <li align="left">
+                Tweet Sentiment Extraction
+            </li>
+        </ul>
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Ranked 90th / 360 teams
+        </li>
+        <li align="left">
+            Ranked 411th / 2927 teams
+        </li>
+        <li align="left">
+            Investigating top winners' codes
+        </li>
+    </ul>
+---

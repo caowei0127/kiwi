@@ -1,15 +1,31 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Company Treasure Management
+subtitle: Financial Risk Management
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: Aug 2017 - Aug 2018
+img: Treasure_Management.jpg
+thumbnail: Treasure_Management_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2017 - Aug 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Financial Risk Management
+Background-Problem-Statements: 
+    <p align="left">
+        Due to the limited treasury of the company, positions in our liquidity provider are exposed with liquidity risk, credit risk, market risk and operational risk.
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Built up VaR calculation into position management strategy in liquidity providers based on market data such as EOD FX rates and implied volatility with Monte Carlo simulation, ensuring 0 margin call and stop-out alerts on liquidity provider side.
+        </li>
+        <li align="left">
+            Managed liquidity using systematic rebalancing policies with pre-set ranges across different products and applied stress testing analysis that have successfully dealt with a situation where clients collectively increased their positions.
+        </li>
+        <li align="left">
+            Applied financial statements analysis of potential liquidity providers to have successfully screen out unqualified ones based on factors including income per capita/revenue per capita, asset turnover, quarterly revenue growth, goodwill to net assets ratio, gross margin and etc.
+        </li>
+    </ul>
 
 ---

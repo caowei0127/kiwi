@@ -1,0 +1,40 @@
+---
+title: Product Website
+subtitle: Web App Development
+layout: default
+modal-id: 7
+date: Apr 2019 - Jun 2019
+img: Product_Website.png
+thumbnail: Product_Website_thumbnail.png
+alt: image-alt
+project-date: Apr 2019 - Jun 2019
+client: Start Bootstrap
+category: Web App Development
+Background-Problem-Statements: 
+    <p align="left">
+        <ul>
+            <li align="left">
+                At the pre-sale stage of the robot product, we need to build up a website to illustrate the product descriptions, functions and user manuals for users to better understand with the robot.
+            </li>
+            <li align="left">
+                Provided with functions for users to ask questions and get answers related to the product on the website.
+            </li>
+        </ul>
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Designed and integrated both front-end and back-end structure according to use cases.
+        </li>
+        <li align="left">
+            Mentored interns on the implementation of front-end.
+        </li>
+        <li align="left">
+            Built up website with Python Flask, Google Cloud Platform and ElasticSearch and refined the backend flow with unit tests.
+        </li>
+        <li align="left">
+            Brought up the product into a ready-for-sale stage.
+        </li>
+    </ul>
+---

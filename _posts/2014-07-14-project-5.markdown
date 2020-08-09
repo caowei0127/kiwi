@@ -1,15 +1,44 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Risk Management Intelligence 
+subtitle: Business Intelligence
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: Aug 2017 - Aug 2018
+img: Risk_Manageemnt_Intelligence.jpg
+thumbnail: Risk_Manageemnt_Intelligence_thumnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2017 - Aug 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Business Intelligence
+Background-Problem-Statements: 
+    <p align="left">
+        The current risk management of our department were manually developed and maintained using excel. The high frequency operations (including VaR, treasury management, client equity monitoring and daily P&L reports) required our team to handle large amount of data from different sources, exposing us to high operational risks.
+    </p>
+Implementations-Outcomes:
+    <ul>
+        <li align="left">
+            Designed OLTP and OLAP Database after consolidating business analytical questions, covering profits and loss of client’s trades, volume of trades that liquidity hub and liquidity providers are able to handle, as well as latency and slippage analysis reports.
+        </li>
+    </ul>
+    <ul>
+        <li align="left">
+            Devised ETL process including
+        </li>
+        <ul>
+            <li align="left">
+                E (Extract) - Collaborated with MIS team to set up the data pipeline, saving 20% of the time manually cleansing the data, and extracted relevant data fields into OLTP database.
+            </li>
+            <li align="left">
+                T (Transformation) - included time stamp splits and new generated attributes that are aggregated at certain level.
+            </li>
+            <li align="left">
+                L (Loading) - loaded into the OLAP database for further query and analysis.
+            </li>
+        </ul>
+    </ul>
+    <ul>
+        <li align="left">
+            Designed visualisation dashboard with PowerBI (connected with OLAP database), clarifying 100% of the business analytical questions.
+        </li>
+    </ul>
 ---

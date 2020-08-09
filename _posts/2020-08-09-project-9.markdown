@@ -1,0 +1,30 @@
+---
+title: Information Retrieval System based on Yelp Datasets
+subtitle: Text Mining - Information Retrieval
+layout: default
+modal-id: 9
+date: Mar 2019 - Apr 2019
+img: information_retrieval.jpg
+thumbnail: information_retrieval_thumbnail.jpg
+alt: image-alt
+project-date: Mar 2019 - Apr 2019
+client: Start Bootstrap
+category: Text Mining - Information Retrieval
+Background-Problem-Statements: 
+    <p align="left">
+        Yelp helps to connect business owners and targeted customers. This project required our team to build a search engine for users to search on businesses with different query types. 
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Investigated on Yelp datasets with huge amount of samples to gain a general understanding about the text data patterns, helping increased search results precisions.
+        </li>
+        <li align="left">
+            Built document indexers with Lucene, and coded in Java to integrate multiple functions that handle different query types including keywords, different fields such as ratings of a business, locations information such as finding a restaurant in an area or finding nearest restaurant.
+        </li>
+        <li align="left">
+            Conducted human tests on the search engine where 95% of search results are relevant.
+        </li>
+    </ul>
+---

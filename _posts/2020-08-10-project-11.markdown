@@ -1,0 +1,34 @@
+---
+title: Articulating Value (Pricing)
+subtitle: Data Science
+layout: default
+modal-id: 11
+date: Jan 2020 - Now
+img: pricing.png
+thumbnail: pricing_thumbnail.png
+alt: image-alt
+project-date: Jan 2020 - Now
+client: Start Bootstrap
+category: Data Science
+Background-Problem-Statements: 
+    <p align="left">
+        <ul>
+            <li align="left">
+                Historical lack of pricing discipline has created pockets of underpriced business, where a small increase of yield would materially impact the profit.
+            </li>
+            <li align="left">
+                There are thousands of clients of caribou sizes in a variety of industries being sold a complex array of risk transfer products and consulting services and the lack of understanding on how pricing and profitability vary across industries and across service lines was adding the difficulty.
+            </li>
+        </ul>
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Obtained data from internal data lake, applied EDA to identify scopes, businesses and data quality and built up data cleansing pipeline for future usage.
+        </li>
+        <li align="left">
+            Developed predictive models coded in Python to generate the benchmark prices charged to clients, eliminating 100% of underpriced clients and bringing a detailed pricing plan at each client level.
+        </li>
+    </ul>
+---
