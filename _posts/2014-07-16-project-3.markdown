@@ -1,15 +1,36 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Risk Management Automation
+subtitle: Software Development
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: Aug 2017 - Aug 2018
+img: Risk_Management_Operations_Automation.jpg
+thumbnail: Risk_Management_Operations_Automation_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2017 - Aug 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Software Development
+Background-Problem-Statements: 
+    <p align="left">
+        When system issues happened (e.g. trading latency or slippage, service down, bid-ask spread anomaly and etc.), our complex systems and pipeline (including end-to-end different sources like MT4, liquidity hub, liquidity provider and market data) added more difficulty for our team to quickly pinpoint the issue and offer solutions to our client.
+    </p>
+Implementations-Outcomes:
 
+    <ul>
+        <li align="left">
+            Understood the entire operations comprehensively though interviews with our team members and translated those problems and pain points into business use cases.
+        </li>
+        <li align="left">
+            Designed the basic structure of the program by reorganise those use cases into different modules, followed by detailed designs for each module.
+        </li>
+        <li align="left">
+            Implemented with Python and PostgreSQL by transferring detailed design modules into a well established code structure and database design.
+        </li>
+        <li align="left">
+            Built up issue notification system, which checked though the order placement in the pipeline automatically and generated email for the team to timely address the issue for client.
+        </li>
+        <li align="left">
+            Reduced manual work per risk person by 3 hours on regular management reporting.
+        </li>
+    </ul>
 ---

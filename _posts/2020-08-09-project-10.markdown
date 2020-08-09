@@ -1,0 +1,44 @@
+---
+title: Local Market Planning
+subtitle: Business Intelligence
+layout: default
+modal-id: 10
+date: Jan 2020 - Now
+img: lmp.jpg
+thumbnail: lmp_thumbnail.jpg
+alt: image-alt
+project-date: Jan 2020 - Now
+client: Start Bootstrap
+category: Business Intelligence
+Background-Problem-Statements: 
+    <p align="left">
+        Local Market Planning (LMP) is a business planning tool that uses data analytics to support sales strategy and addressing the following four aspects
+        <ul>
+            <li align="left">
+                New Business - Applied to our prospect list and to all other companies in the market we can determine the best new business opportunities.
+            </li>
+            <li align="left">
+                Sales Effectiveness - Analysis of our strengths and weaknesses driving our Best Opportunity Ranking.
+            </li>
+            <li align="left">
+                Cross Sell - Analysis of what our client are not buying, but do have potential opportunities.
+            </li>
+            <li align="left">
+                Sales Strategy - By combining our knowledge of our clients and the market, we can determine the best strategies.
+            </li>
+        </ul>
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Investigated on Yelp datasets with huge amount of samples to gain a general understanding about the text data patterns, helping increased search results precisions.
+        </li>
+        <li align="left">
+            Built document indexers with Lucene, and coded in Java to integrate multiple functions that handle different query types including keywords, different fields such as ratings of a business, locations information such as finding a restaurant in an area or finding nearest restaurant.
+        </li>
+        <li align="left">
+            Conducted human tests on the search engine where 95% of search results are relevant.
+        </li>
+    </ul>
+---

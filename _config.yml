@@ -5,14 +5,14 @@ baseurl: /kiwi/
 # Site settings
 title: Data Scientist - Kiwi
 email: caowei0127@gmail.com
-description: "This is a space where Kiwi markdowns his NLP Journey."
+description: "This is a space where Kiwi markdowns his Data Science Journey."
 
 
 # Team names, titles and social links
 people:
-- name: Kiwi
+- name: Kiwi, FRM
   pic: 1
-  position: NLP Artist
+  position: Data Science Passionist
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/caowei0127/

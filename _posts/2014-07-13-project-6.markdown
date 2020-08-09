@@ -1,15 +1,30 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Chat-bot Pipeline Improvements
+subtitle: Software Development
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: Aug 2018 - Jun 2019
+img: Chat_bot_Pipeline_Improvements.jpg
+thumbnail: Chat_bot_Pipeline_Improvements_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2018 - Jun 2019
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Software Development
+Background-Problem-Statements: 
+    <p align="left">
+        Due to high turnover rate of the development team, the backend codes of the chat robot was kept basic and drafted, which make it hard to either solve current problems or integrate new features.
+    </p>
+Implementations-Outcomes:
 
+    <ul>
+        <li align="left">
+            Understood comprehensively about the backend code structure and generated a set of user-friendly documentations within a limited timeline.
+        </li>
+        <li align="left">
+            Revamped chatbot internal pipeline with Java, PHP and Python according to new business cases, eliminating 100% remaining problems on old version and equipped with the ability to integrate new features.
+        </li>
+        <li align="left">
+            Analysed and translated user profiles and chat history, improving chat bot interactive skills and preventing potential issues.
+        </li>
+    </ul>
 ---

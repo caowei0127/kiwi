@@ -1,0 +1,33 @@
+---
+title: Data Mining and Analytics Software on Predictive Model
+subtitle: Data Science
+layout: default
+modal-id: 8
+date: Aug 2018 - Oct 2018
+img: data_mining.jpg
+thumbnail: data_mining_thumbnail.jpg
+alt: image-alt
+project-date: Aug 2018 - Oct 2018
+client: Start Bootstrap
+category: Data Science
+Background-Problem-Statements: 
+    <p align="left">
+        The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. We would design a predictive model in order to assess if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+    </p>
+Implementations-Outcomes:
+
+    <ul>
+        <li align="left">
+            Researched on the background of domestic macro environment, banking industry and factors that influence the marketing campaign to have a comprehensive understanding of the data and further drill down to solve certain problem statements, including “What factors were influencing bank’s telemarketing?”, “How and why do they affect it?”, and “To what extent do those factors influence?"
+        </li>
+        <li align="left">
+            Implemented data preprocessing and feature engineering by exploring data patterns, filling null values, and detecting outliers based on observed trends and distributions, as well as creating new features that are statistically significant.
+        </li>
+        <li align="left">
+            Built the model with ensemble learning, applied SMOTE on the imbalanced datasets to enhance the model, * increasing prediction MCC score by 30% to 0.765 (highest among other peer groups).
+        </li>
+        <li align="left">
+            Presented a storytelling based visualisation in Tableau, with all audience interacting with the presentation.
+        </li>
+    </ul>
+---
