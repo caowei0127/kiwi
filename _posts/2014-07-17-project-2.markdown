@@ -20,7 +20,7 @@ Implementations-Outcomes:
             Built up all distribution channel connections (including Messenger, Slack, Skype, WeChat and etc.) to allow for various types of conversations.
         </li>
         <li align="left">
-            Crawled public and available financial services entities’ website information using Python to enhance internal corpus and built up data cleansing pipeline before the model training.
+            Crawled public and available financial services entities’ website information using Python to enhance internal corpus and built up data cleansing pipeline before the model training, saving 98% manpower and time cost.
         </li>
     </ul>
 ---

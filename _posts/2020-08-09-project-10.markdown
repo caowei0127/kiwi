@@ -32,13 +32,16 @@ Implementations-Outcomes:
 
     <ul>
         <li align="left">
-            Investigated on Yelp datasets with huge amount of samples to gain a general understanding about the text data patterns, helping increased search results precisions.
+            Obtained data from internal and external data sources and developed data pipeline using Python to clean the data before input into the system, saving average 2 human hours per source on data cleansing.
         </li>
         <li align="left">
-            Built document indexers with Lucene, and coded in Java to integrate multiple functions that handle different query types including keywords, different fields such as ratings of a business, locations information such as finding a restaurant in an area or finding nearest restaurant.
+            Enhanced the Name Matching and relationship grouping algorithm (used to identify business names similarity and groupings), which increased the grouping accuracy by 20%.
         </li>
         <li align="left">
-            Conducted human tests on the search engine where 95% of search results are relevant.
+            Developed predictive model and association rule coded in Python, R and SQL server to identify spending power and purchasing behaviors, helping target more than 1 billion revenue opportunities in COVID-19 situation.
+        </li>
+        <li align="left">
+            Generated tableau dashboards for output validation, covering 100% of business questions and saving more than 3 hours at each model adjustment phase. 
         </li>
     </ul>
 ---

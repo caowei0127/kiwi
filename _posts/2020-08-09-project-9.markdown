@@ -24,7 +24,7 @@ Implementations-Outcomes:
             Built document indexers with Lucene, and coded in Java to integrate multiple functions that handle different query types including keywords, different fields such as ratings of a business, locations information such as finding a restaurant in an area or finding nearest restaurant.
         </li>
         <li align="left">
-            Conducted human tests on the search engine where 95% of search results are relevant.
+            Conducted human tests on the search engine where 90% of search results are relevant.
         </li>
     </ul>
 ---
